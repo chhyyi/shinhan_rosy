@@ -8,6 +8,7 @@ Aiffel 부대울 DATATHON으로 진행되는 프로젝트입니다.
 
 - [Dacon의 대회 페이지](https://dacon.io/competitions/official/235907/codeshare)
 - [데이터 다운 링크 - 서울시](https://bigdata.seoul.go.kr/data/selectSampleData.do?r_id=P213&sample_data_seq=318&tab_type=&file_id=&sch_text=서울시민의+업종별&sch_order=U&currentPage=1)
+- [집계구중심값 주소정보 - 통계청](https://sgis.kostat.go.kr/view/board/faqView?post_no=17&board_cd=BOARD_002) 집계구의 위치를 확인하는데 필요한 데이터파일입니다.
 
 ## 팀원 (깃허브)
 - aivrm https://github.com/aivrm/ai
